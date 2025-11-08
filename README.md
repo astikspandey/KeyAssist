@@ -4,6 +4,7 @@ A macOS keyboard assistant that automatically improves your text using AI. Press
 
 ## Features
 
+- **One time Config**: Only needs 20 seconds to initialize the first time, smooth sailing onwards
 - **Smart Text Improvement**: Uses Ollama's Gemma model to fix text
 - **Works Everywhere**: Works in any text field across all applications
 - **Keyboard Shortcut**: Simple `Control+Option+X` trigger
